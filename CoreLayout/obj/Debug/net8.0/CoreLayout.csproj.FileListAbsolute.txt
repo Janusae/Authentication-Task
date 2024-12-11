@@ -1,0 +1,15 @@
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\bin\Debug\net8.0\CoreLayout.deps.json
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\bin\Debug\net8.0\CoreLayout.dll
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\bin\Debug\net8.0\CoreLayout.pdb
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\bin\Debug\net8.0\DBConnection.dll
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\bin\Debug\net8.0\DBConnection.pdb
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\CoreLayout.csproj.AssemblyReference.cache
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\CoreLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\CoreLayout.AssemblyInfoInputs.cache
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\CoreLayout.AssemblyInfo.cs
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\CoreLayout.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\CoreLayout.csproj.Up2Date
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\CoreLayout.dll
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\refint\CoreLayout.dll
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\CoreLayout.pdb
+C:\Users\Mohammad\source\repos\AuthenticationTask\CoreLayout\obj\Debug\net8.0\ref\CoreLayout.dll

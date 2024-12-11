@@ -1,0 +1,14 @@
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\bin\Debug\net8.0\DBConnection.deps.json
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\bin\Debug\net8.0\DBConnection.runtimeconfig.json
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\bin\Debug\net8.0\DBConnection.dll
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\bin\Debug\net8.0\DBConnection.pdb
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\DBConnection.csproj.AssemblyReference.cache
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\DBConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\DBConnection.AssemblyInfoInputs.cache
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\DBConnection.AssemblyInfo.cs
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\DBConnection.dll
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\refint\DBConnection.dll
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\DBConnection.pdb
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\DBConnection.genruntimeconfig.cache
+C:\Users\Mohammad\source\repos\AuthenticationTask\DBConnection\obj\Debug\net8.0\ref\DBConnection.dll
